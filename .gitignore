@@ -1,0 +1,7 @@
+# Ignore build output
+target/
+*.class
+
+# Ignore NetBeans/TMC Beans project files
+nbactions.xml
+nb-configuration.xml
